@@ -72,3 +72,4 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 ## Contact
 
 If you have any questions or need help, feel free to contact me on Telegram: [@qpwedev](https://t.me/qpwedev).
+
