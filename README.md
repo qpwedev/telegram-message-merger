@@ -1,6 +1,6 @@
 # Telegram Message Merger
 
-Telegram Message Merger is a script that combines your last messages sent in a private chat within a 30-second interval into a single message, deletes the old messages, and edits the first message to include the content of the others.
+Telegram Message Merger is a script that combines your last messages sent in a chat within a 30-second interval into a single message, deletes the old messages, and edits the first message to include the content of the others.
 
 ## Getting Started
 
